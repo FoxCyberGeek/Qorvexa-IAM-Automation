@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,Department,JobTitle,Status,Email
+QTX-2001,Alex,Green,Finance,Analyst,Active,alex.green@qorvexa.example
+QTX-2002,Jamie,White,,HR Coordinator,Active,jamie.white@qorvexa.example
+QTX-2003,Sam,King,IT,Technician,OnLeave,sam.king@qorvexa.example
+QTX-2004,Chris,Young,Marketing,Associate,Active,alex.green@qorvexa.example
+QTX-2004,Pat,Gray,IT,Support Specialist,Active,pat.gray@qorvexa.example

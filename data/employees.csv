@@ -1,0 +1,7 @@
+"EmployeeID","FirstName","LastName","Department","JobTitle","Status","Email"
+"QTX-1001","Jordan","Bird","Information Technology","IT Support Specialist","Active","jordan.bird@qorvexa.example"
+"QTX-1002","Avery","Johnson","Human Resources","HR Coordinator","Active","avery.johnson@qorvexa.example"
+"QTX-1003","Morgan","Lee","Information Technology","IT Support Analyst","Active","morgan.lee@qorvexa.example"
+"QTX-1004","Taylor","Smith","Information Technology","Systems Administrator","Active","taylor.smith@qorvexa.example"
+"QTX-1005","Casey","Brown","Marketing","Marketing Associate","Terminated","casey.brown@qorvexa.example"
+"QTX-1006","Riley","Davis","Human Resources","HR Specialist","Active","riley.davis@qorvexa.example"

@@ -1,0 +1,7 @@
+"EmployeeID","Field","Issue"
+"QTX-2002","Department","Missing required value"
+"QTX-2003","Status","Invalid status: OnLeave"
+"QTX-2004","EmployeeID","Duplicate value: QTX-2004"
+"QTX-2004","EmployeeID","Duplicate value: QTX-2004"
+"QTX-2001","Email","Duplicate value: alex.green@qorvexa.example"
+"QTX-2004","Email","Duplicate value: alex.green@qorvexa.example"
