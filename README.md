@@ -165,6 +165,6 @@ This is a portfolio simulation, not a production IAM integration. Before using s
 
 This project demonstrates practical exploration of IAM auditing and PowerShell automation through simulated employee lifecycle scenarios. It provides a foundation for further development in identity governance, access reviews, account lifecycle management, and security administration.
 
-**Author:** FoxCyberGeek
+**Author:** Marsyas Fox
 
 **Repository:** https://github.com/FoxCyberGeek/Qorvexa-IAM-Automation
